@@ -2,6 +2,8 @@
 
 Simple autism screening application using ANN model. Built using TensorFlow & React.
 
+A mini project for Computational Intelligence university subject. 
+
 [**👉 Application Here 👈**](https://indi-verse.vercel.app/)
 
 ![IndiVerse](./public/indiverse_ss.png)
